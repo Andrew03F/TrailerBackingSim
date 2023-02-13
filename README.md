@@ -1,7 +1,7 @@
 # TrailerGame
 Simple top-down game made with pygame. 
 
-Click [here](#) for an in-depth information page.
+Click [here]() for an in-depth information page.
 
 ## Installation
 
@@ -16,8 +16,6 @@ If you do not  already have Pygame. Follow the link below to install it on you
 Use the following command line command to run the simulation. 
 
 
-
-println!("cargo:rustc-link-arg=-Wl,-rpath,@loader_path");
 
 ```
 
