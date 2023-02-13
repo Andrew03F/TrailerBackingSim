@@ -1,7 +1,7 @@
 # TrailerGame
 Simple top-down game made with pygame. 
 
-Click [here]() for an in-depth information page.
+Click [here](https://andrew03f.github.io/PersonalSite/) for an in-depth information page.
 
 ## Installation
 
